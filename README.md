@@ -1,2 +1,7 @@
-# devops-wponte
-proyecto de curso DevOps &amp; Project Management Fundamentals
+# Agrega esto al inicio del README.md:
+
+![CI Pipeline](https://github.com/PONTE009/develop-wponte/actions/workflows/ci.yml/badge.svg)
+
+# El badge se verá así en GitHub:
+[ CI Pipeline passing ]   ← verde si todo está bien
+[ CI Pipeline failing ]   ← rojo si algo falló
